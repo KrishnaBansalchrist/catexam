@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<company>
+    <employee>
+        <id>001</id>
+        <name>Aditya Biswal</name>
+        <age>21</age>
+        <salary>60000</salary>
+        <email>aditya.biswal@mca.christuniversity.in</email>
+        <mobile>982465211</mobile>
+        <designation>Web Developer</designation>
+        <promotion>Developer</promotion>
+    </employee>
+	<employee>
+        <id>002</id>
+        <name>Yash</name>
+        <age>25</age>
+        <salary>50000</salary>
+        <email>yash@mca.christuniversity.in</email>
+        <mobile>9988774422</mobile>
+        <designation>Android Developer</designation>
+        <promotion>Developer</promotion>
+    </employee>
+	
+    <employee>
+        <id>003</id>
+        <name>Shipra Jha</name>
+        <age>20</age>
+        <salary>85000</salary>
+        <email>shipra.jha@mca.christuniversity.in</email>
+        <mobile>7789654312</mobile>
+        <designation>Tester</designation>
+        <promotion>Developer</promotion>
+    </employee>
+    
+    <employee>
+        <id>104</id>
+        <name>Pankaj Sharma</name>
+        <age>22</age>
+        <salary>80000</salary>
+        <email>pankaj.sharma@mca.christuniversity.in</email>
+        <mobile>7777777777</mobile>
+        <designation>Developer</designation>
+        <promotion>Leader</promotion>
+    </employee>
+</company>
